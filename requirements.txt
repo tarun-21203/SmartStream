@@ -1,13 +1,26 @@
+# Core Flask API
 Flask==2.2.5
+flask-cors==4.0.1
+
+# Streamlit Frontend
+streamlit==1.35.0
+
+# AI/ML Libraries for video analysis and chat
 langchain==0.2.11
 langchain-community==0.2.10
-langchain-groq==0.1.6 
-transformers==4.43.2 
-sentence-transformers==3.0.1 
+langchain-groq==0.1.6
+langchain-google-genai==1.0.8
+
+# Utilities
 python-dotenv==0.21.0
-pypdf==4.3.1
-langchain_google_genai
-gunicorn
+requests>=2.32.2,<3
+
+# Video transcript extraction
 youtube_transcript_api==0.6.2
-flask-cors
-requests
+yt-dlp==2024.8.6
+
+# Vector database for AI embeddings
+faiss-cpu
+
+# Production server
+gunicorn==22.0.0
