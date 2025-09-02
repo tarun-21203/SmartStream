@@ -7,10 +7,10 @@ Smart Stream is an innovative AI-powered application that transforms how users c
 With video content consumption at an all-time high, users face information overload and time constraints. Smart Stream bridges this gap by converting video content into digestible summaries and enabling interactive Q&A sessions. Users can quickly understand video content and dive deeper into specific topics through natural language conversations.
 
 ## Key Features
-- **🎯 Smart Transcript Extraction** - Reliable extraction from YouTube videos using yt-dlp
-- **🤖 AI-Powered Summaries** - Intelligent summarization using Groq's LLM technology
-- **💬 Interactive Chat Bot** - Ask questions about video content and get instant answers
-- **📊 Handles Large Videos** - Smart chunking for long transcripts with comprehensive summaries
+- **Smart Transcript Extraction** - Reliable extraction from YouTube videos using yt-dlp
+- **AI-Powered Summaries** - Intelligent summarization using Groq's LLM technology
+- **Interactive Chat Bot** - Ask questions about video content and get instant answers
+- **Handles Large Videos** - Smart chunking for long transcripts with comprehensive summaries
 
 ## Implementation
 
@@ -119,4 +119,4 @@ This application demonstrates the power of combining modern AI technologies to c
 
 ---
 
-**Smart Stream** - Transforming video consumption through AI-powered intelligence. Save time, stay informed, and interact with content like never before! 🚀
+**Smart Stream** - Transforming video consumption through AI-powered intelligence. Save time, stay informed, and interact with content like never before!
